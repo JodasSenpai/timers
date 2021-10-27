@@ -58,3 +58,6 @@ flutter_application_id:
     name: "Jerica Timers"
 flutter:
   uses-material-design: true
+  assets:
+    - assets/offroad/
+    - assets/otter/
